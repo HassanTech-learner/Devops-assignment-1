@@ -26,3 +26,4 @@ I learned that Git is used to track changes in files, while GitHub provides an o
 * GitHub website
 * Web browser
 
+I created the assignment-notes branch to practise isolated changes.
